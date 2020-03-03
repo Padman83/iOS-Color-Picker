@@ -2,14 +2,27 @@
 
 # iOS Color Picker
 
-iOS Color Picker is written in Swift language for iOS.
+iOS Color Picker is written in Swift language for iOS Apps.
 
 ![iOS Color Picker](https://user-images.githubusercontent.com/45048950/74106615-61283980-4ba3-11ea-969c-9f1923bee626.gif)
 
-### Code Editor
+### Requirements :
 
-* (https://developer.apple.com/xcode/ide)
+* Xcode Editor
 
-### Project Link
+* iOS 13.0 or latest version
 
-* (https://github.com/Padman83/iOS-Color-Picker)
+### Installation :
+
+### Open in Xcode, go to source control -> clone -> enter repository URL.
+
+```
+https://github.com/Padman83/iOS-Color-Picker.git
+```
+
+### Or Use the Terminal.
+
+```
+git clone https://github.com/Padman83/iOS-Color-Picker.git
+```
+
