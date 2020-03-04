@@ -11,10 +11,6 @@ import UIKit
 class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSource{
     
     
-    let colors = ["systemBlue", "systemPurple", "systemYellow", "systemOrange", "systemTeal", "Cyan", "systemPink", "Brown", "Magenta", "systemRed", "DarkGray", "systemGreen", "systemIndigo"]
-    var selected = 0
-    
-    
     @IBOutlet weak var imageView: UIImageView!
     
     @IBOutlet weak var pickerView: UIPickerView!
