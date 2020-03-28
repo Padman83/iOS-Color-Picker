@@ -10,7 +10,7 @@ iOS Color Picker is written in Swift language for iOS Apps.
 
 * Xcode Editor
 
-* iOS 13.3 or latest version
+* iPhone 11 or latest version
 
 ## 🛠️ Installation
 
